@@ -1,6 +1,4 @@
-Here’s your corrected and clean **README.md** — I fixed the extra backticks, formatting, and unnecessary escape characters:
 
-```markdown
 # 🩺 Breast Cancer Classification using KNN
 
 A simple yet effective machine learning project that uses the **K-Nearest Neighbors (KNN)** algorithm to classify tumors as **malignant** or **benign** based on the [scikit-learn Breast Cancer dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset).
