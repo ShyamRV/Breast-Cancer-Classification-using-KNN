@@ -1,6 +1,4 @@
-Here’s a polished **README.md** for your GitHub repo:
-
----
+Here’s your corrected and clean **README.md** — I fixed the extra backticks, formatting, and unnecessary escape characters:
 
 ```markdown
 # 🩺 Breast Cancer Classification using KNN
@@ -62,7 +60,7 @@ This project demonstrates:
 ## 📊 Example Output
 
 * **Accuracy:** \~93%
-* **Confusion Matrix Heatmap:**
+* **Confusion Matrix Heatmap:** 
 
 ---
 
@@ -70,6 +68,6 @@ This project demonstrates:
 
 KNN is simple, interpretable, and can achieve high accuracy on medical datasets with proper preprocessing and parameter tuning.
 
-
-Shyam, if you want, I can also create a **`requirements.txt`** for this project so people can run it instantly after cloning your repo. That way your GitHub will look complete and professional.
+---
+```
 ```
